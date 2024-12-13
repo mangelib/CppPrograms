@@ -33,3 +33,7 @@
 #### Name: [Pratik Shirodkar](https://github.com/Pratik-Shirodkar)
 - Place: Goa, India
 - GitHub: [Pratik Shirodkar](https://github.com/Pratik-Shirodkar)
+
+### Name: [Angel M](https://github.com/mangelib)
+- Place: Guadalajara, Mexico
+- GitHub: [mangelib](https://github.com/mangelib)
